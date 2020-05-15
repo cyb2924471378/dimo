@@ -1,0 +1,144 @@
+@charset "utf-8";
+body {
+	background-color: #F2F2F2;
+}
+.header {
+	background-color: #FFFEFE;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}
+.main {
+	width: 1000px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFFFFF;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.main .navbar {
+	background-color: #EB4E51;
+	width: 200px;
+	height: 500px;
+	float: left;
+}
+.main .navbar a {
+	display: block;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 20px;
+	line-height: 40px;
+	background-color: #6E85E8;
+	color: #F1E5E5;
+	font-size: 18px;
+	border-radius: 8px;
+	text-decoration: none;
+}
+.main .navbar a:hover  {
+	background-color: #122A5F;
+}
+
+
+.main .section {
+	background-color: #ECB619;
+	width: 780px;
+	height: 500px;
+	float: left;
+	margin-left: 20px;
+}
+.main .section iframe {
+	width: 100%;
+	border: none;
+	height: 100%;
+}
+
+.d-text {
+	text-align: center;
+	border: none;
+	line-height: 20px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 0px;
+
+}
+.text1 {
+	width: 60%;
+	border: none;
+	line-height: 20px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	color: #333333;
+	text-indent: 10px;
+}
+.text2 {
+	border: none;
+	line-height: 20px;
+	width: 25%;
+	color: #333333;
+	text-indent: 10px;
+	height: auto;
+}
+.mail1 {
+	width: 20%;
+	text-align: center;
+	border: none;
+	line-height: 20px;
+}
+.mail2 {
+	width: 11%;
+	border: none;
+	line-height: 20px;
+	height: 21px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	color: #333333;
+}
+.d-area {
+	text-align: center;
+	border: none;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	height: 100px;
+
+
+
+
+
+
+}
+.submit {
+	width: 110%;
+	border: none;
+	margin-left: 125px;
+	line-height: 20px;
+	border-radius: 5px;
+	font-size: 16px;
+	color: #FFFFFF;
+	background-color: #E8B4BF;
+}
+.submit:hover {
+	background-color: #C16E9E;
+}
+
+
+.areatext {
+	border: none;
+	color: #333;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	width: 60%;
+	height: 100px;
+	text-indent: 10px;
+}
+.footer  {
+	text-align: center;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
